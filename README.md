@@ -26,7 +26,6 @@ Does the new marketing ad campaign lead to a statistically significant higher co
 - **GitHub** for version control and presentation.
 
 ## 🔗 Links
-- [Full One-Page Report](AB_Test_Report.pdf) 
 - [Dataset Source (Kaggle)](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
 
 ---
